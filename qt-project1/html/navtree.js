@@ -1,6 +1,6 @@
 var NAVTREE =
 [
-  [ "qtproject1", "index.html", [
+  [ "My Project", "index.html", [
     [ "Namespaces", null, [
       [ "Namespace List", "namespaces.html", "namespaces" ]
     ] ],
